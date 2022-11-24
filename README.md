@@ -8,3 +8,6 @@ Podmínky zápočtu:
 - zápočtový program (včetně dokumentace)
   - vypracování nejpozději do 28.2.2023!
   - zadání tématu ke schválení do 18.12.2022
+
+Gists:
+* https://gist.github.com/tomby42/e46e9a165c509f5352d9c0cd46e82493
