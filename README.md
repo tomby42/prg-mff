@@ -12,3 +12,4 @@ Podmínky zápočtu:
 Gists:
 * https://gist.github.com/tomby42/e46e9a165c509f5352d9c0cd46e82493
 * https://gist.github.com/tomby42/ae920591c524ff0f84f20a49b4fc99ac
+* https://gist.github.com/tomby42/163dd29d41869cdf3f765850fd363385
